@@ -20,16 +20,19 @@
 晚上：《笨办法学Python（第三版）》附录：命令行快速入门 Ex42-Ex44<br />
 
 - 2015-06-08 <br />
-晚上：《Python基础教程》ch1
+晚上：《Python基础教程》ch1 <br />
 
 - 2015-06-09 <br />
-晚上：《Python基础教程》ch2
+晚上：《Python基础教程》ch2 <br />
 
 - 2015-06-10 <br />
-晚上：Django的安装和练习
+晚上：Django的安装和练习	<br />
 
 - 2015-06-11 <br />
-晚上：Crossin编程教室的“Python实战”教程
+晚上：Crossin编程教室的“Python实战”教程	<br />
 
 - 2015-06-14 <br />
-晚上：《Python基础教程》ch3：字符串
+晚上：《Python基础教程》ch3：字符串	<br />
+
+- 2015-06-19 <br />
+晚上：《Python基础教程》ch4：字典	<br />
