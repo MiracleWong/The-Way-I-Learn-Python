@@ -42,3 +42,7 @@
 
 - 2015-06-25 <br />
 晚上：《Python》ch1、ch2、ch3	<br />
+
+- 2015-07-19 <br />
+下午：『实验楼』视频教程《Git Community Book》ch1& ch2
+晚上：《Flask Web》ch1搭建环境成功
